@@ -1,0 +1,1 @@
+This is a web application made by me which shows the tempertaure , humidity and wind speed whenever a user enters the respective name of the city whose weather conditions he/she wants to know.It is a responsive site which also works on mobile too.
